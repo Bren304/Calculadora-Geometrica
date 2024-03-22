@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author jhade
+ * @author Brennedy
  */
 public class Grafica extends javax.swing.JFrame {
 
